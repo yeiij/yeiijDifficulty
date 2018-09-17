@@ -15,3 +15,6 @@ remember load the mod on server start at -serverMods
 
 ## How i do edit this?
 the addon contains a file named [config.cpp](https://github.com/yeiij/yeiijDifficulty/blob/master/config.cpp) inside the root folder, you can edit under DifficultyPresets
+
+## Do you want to thank for my work?
+https://paypal.me/yeiij
